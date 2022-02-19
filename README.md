@@ -11,7 +11,7 @@ Um desenvolvedor em progresso
 <img src="https://c.tenor.com/S1bD9bb9TWYAAAAC/skeleton-sunglasses.gif" align="right" />
 
 ## Contatos:
-<a href="https://twitter.com/https://twitter.com/meeeeeeendes">
+<a href="https://twitter.com/meeeeeeendes">
   <img align="left" alt="Meu Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/giulliano-mendes/">
