@@ -6,7 +6,8 @@ Um desenvolvedor em progresso
 - Atualmente estudando Java e Javascript
 - Cursando Téc. Desenvolvimento de Sistemas no SENAC
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoDasby&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MoDasby&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoDasby&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://c.tenor.com/S1bD9bb9TWYAAAAC/skeleton-sunglasses.gif" align="right" />
 
