@@ -2,7 +2,7 @@
 <br>
 Um desenvolvedor em progresso
 
-- 16y
+- 17y
 - Atualmente estudando Java e Javascript
 - Cursando Téc. Desenvolvimento de Sistemas no SENAC
 
