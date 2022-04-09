@@ -4,8 +4,6 @@ Um desenvolvedor em progresso
 
 - 17y
 - Atualmente estudando Java e Javascript
-- Cursando Téc. Desenvolvimento de Sistemas no SENAC
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoDasby&layout=compact&custom_title=Linguagens%20Mais%20Usadas&theme=radical)
 
