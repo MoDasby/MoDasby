@@ -1,4 +1,4 @@
-## Olá, eu sou giulliano <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px">
+## Olá, eu sou giulliano <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="20px">
 <br>
 Um desenvolvedor em progresso
 
@@ -7,19 +7,17 @@ Um desenvolvedor em progresso
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoDasby&layout=compact&custom_title=Linguagens%20Mais%20Usadas&theme=radical)
 
-<img src="https://c.tenor.com/S1bD9bb9TWYAAAAC/skeleton-sunglasses.gif" align="right" />
-
 ## Contatos:
 <a href="https://twitter.com/meeeeeeendes">
-  <img align="left" alt="Meu Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Meu Twitter" width="22px" src="./icons/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/giulliano-mendes/">
-  <img align="left" alt="Meu Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Meu Linkedin" width="22px" src="./icons/linkedin.png" />
 </a>
-<a href="https://github.com/MoDasby">
-  <img align="left" alt="Meu Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="mailto:giulliano.pu@gmail.com">
+  <img align="left" alt="Meu Email" width="22px" src="./icons/email.png" />
 </a>
 <a href="https://t.me/MoDasby">
-  <img align="left" alt="Meu Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Meu Telegram" width="22px" src="./icons/telegram.png" />
 </a>
 <br />
