@@ -1,4 +1,4 @@
-## Olá, eu sou giulliano <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="20px">
+## Olá, eu sou giulliano
 <br>
 Um desenvolvedor em progresso
 
