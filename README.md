@@ -2,8 +2,8 @@
 <br>
 Um desenvolvedor em progresso
 
-- 17y
-- Atualmente estudando Java e Javascript
+- 18y
+- Atualmente estudando NodeJs, ReactJs e Java
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoDasby&layout=compact&custom_title=Linguagens%20Mais%20Usadas&theme=radical)
 
