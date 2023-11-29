@@ -1,6 +1,6 @@
 ## Olá, eu sou giulliano
 <br>
-Um desenvolvedor em progresso
+Desenvolvedor Fullstack ReactJS, Typescript, TypeORM, Mysql, Nodejs, Java/Spring
 
 - 18y
 - Atualmente estudando NodeJs, ReactJs e Java
