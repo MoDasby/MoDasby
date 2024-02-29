@@ -9,9 +9,9 @@ Desenvolvedor Fullstack ReactJS, Typescript, TypeORM, Mysql, Nodejs, Java/Spring
 
 ## Contatos:
 <a href="https://www.linkedin.com/in/giulliano-mendes/" target="_blank">
-  <img src="https://img.shields.io/badge/-Linkedin-gray?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giulliano-mendes/"/>
+  <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?logo=Linkedin"/>
 </a>
 <a href="mailto:giullianomendes033@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-gray?style=flat-square&labelColor=white&logo=gmail&logoColor=gray&link=mailto:giullianomendes033@gmail.com" />
+  <img src="https://img.shields.io/badge/-Gmail-1C1C1C?logo=gmail" />
 </a>
 <br />
