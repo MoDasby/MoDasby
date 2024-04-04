@@ -1,9 +1,6 @@
 ## Olá, eu sou giulliano
 <br>
-Desenvolvedor Fullstack ReactJS, Typescript, TypeORM, Mysql, Nodejs, Java/Spring
-
-- 19y
-- Atualmente estudando NodeJs, ReactJs e Java
+Desenvolvedor Web Java/Spring, Nodejs, Typescript, TypeORM, Mysql, ReactJS
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoDasby&layout=compact&custom_title=Linguagens%20Mais%20Usadas&theme=radical)
 
