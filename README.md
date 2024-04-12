@@ -1,6 +1,18 @@
-## Olá, eu sou giulliano
+## ♨️ Olá, eu sou giulliano
+
+Desenvolvedor Web com foco em backend, atualmente trabalho como freelancer na Biosat
+
+## Skills
+
+- Frontend: Javascript/Typescript, React, HTML, CSS, Styled Components, NextJS.
+
+- Backend: Java, Springboot, Nodejs, Express, Typescript, Microsserviços
+
+- Banco de dados: SQL, MySQL, Postgres, Hibernate, TypeORM
+
+- Geral: Git/Github, Docker, Testes Unitários
+
 <br>
-Desenvolvedor Web Java/Spring, Nodejs, Typescript, TypeORM, Mysql, ReactJS
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoDasby&layout=compact&custom_title=Linguagens%20Mais%20Usadas&theme=radical)
 
