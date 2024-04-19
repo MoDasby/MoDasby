@@ -1,6 +1,6 @@
 ## ♨️ Olá, eu sou giulliano
 
-- Desenvolvedor Web com foco em backend, atualmente trabalho como freelancer na Biosat
+- Desenvolvedor Web com foco em backend, atualmente presto serviços como freelancer na Biosat
 - Estudante de Análise e desenvolvimento de sistemas
 
 ## Skills
