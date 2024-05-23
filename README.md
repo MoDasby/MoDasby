@@ -1,6 +1,6 @@
 ## ♨️ Olá, eu sou giulliano
 
-- Desenvolvedor Backend, atualmente presto serviços como freelancer na Biosat
+- Desenvolvedor Backend
 - Estudante de Análise e desenvolvimento de sistemas
 
 ## Skills
