@@ -1,11 +1,11 @@
 ## ♨️ Olá, eu sou giulliano
 
-- Desenvolvedor Web com foco em backend, atualmente presto serviços como freelancer na Biosat
+- Desenvolvedor Backend, atualmente presto serviços como freelancer na Biosat
 - Estudante de Análise e desenvolvimento de sistemas
 
 ## Skills
 
-- Frontend: Javascript/Typescript, React, HTML, CSS, Styled Components, NextJS.
+- Frontend: Javascript/Typescript, React, HTML, CSS.
 
 - Backend: Java, Springboot, Nodejs, Express, Typescript, Microsserviços
 
