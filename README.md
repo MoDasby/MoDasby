@@ -5,11 +5,11 @@
 
 ## Skills
 
-- Frontend: Javascript/Typescript, React, HTML, CSS.
-
 - Backend: Java, Springboot, Nodejs, Express, Typescript, Microsserviços
 
 - Banco de dados: SQL, MySQL, Postgres, Hibernate, TypeORM
+
+- Frontend: Javascript/Typescript, React, HTML, CSS.
 
 - Geral: Git/Github, Docker, Testes Unitários
 
