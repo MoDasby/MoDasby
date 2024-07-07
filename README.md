@@ -1,8 +1,5 @@
 ## ♨️ Olá, eu sou giulliano
 
-- Desenvolvedor Backend
-- Estudante de Análise e desenvolvimento de sistemas
-
 
 <br>
 
