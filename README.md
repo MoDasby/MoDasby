@@ -1,5 +1,8 @@
-## ♨️ Olá, eu sou giulliano
+## ♨️ Hi, I'm Giulliano
 
+- Backend developer
+- Systems Analysis and Development student
+- OOP lover
 
 <br>
 
