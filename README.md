@@ -2,7 +2,6 @@
 
 - Backend developer
 - Systems Analysis and Development student
-- OOP lover
 
 <br>
 
