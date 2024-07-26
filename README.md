@@ -5,7 +5,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoDasby&layout=compact&custom_title=Linguagens%20Mais%20Usadas&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoDasby&layout=compact&custom_title=Most%20used%20langs&theme=radical)
 
 ## Contact:
 <a href="https://www.linkedin.com/in/giulliano-mendes/" target="_blank">
