@@ -1,6 +1,6 @@
 ## ♨️ Hi, I'm Giulliano
 
-- Backend developer
+- Software developer
 - Systems Analysis and Development student
 
 <br>
