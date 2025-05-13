@@ -2,7 +2,7 @@
 
 - I'm a passionate **software developer** 
 - Currently studying **Systems Analysis and Development** (graduating in 2026).  
-- I enjoy working with **Go**, **Java**, **PostgreSQL**, **Nodejs** and **Cloud/Containers**
+- I enjoy working with **Go**, **Java**, **PostgreSQL** and **Nodejs**
 
 ## Contact Me
 
