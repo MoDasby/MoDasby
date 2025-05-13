@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Giulliano Mendes
 
-- I'm a passionate **software developer** focused on building scalable and efficient backend systems.  
+- I'm a passionate **software developer** 
 - Currently studying **Systems Analysis and Development** (graduating in 2026).  
 - I enjoy working with **Go**, **Java**, **PostgreSQL**, **Nodejs** and **Cloud/Containers**
 
