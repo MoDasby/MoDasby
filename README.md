@@ -11,7 +11,7 @@
 
 ## Featured Projects
 
-### [Futeboxd](https://github.com/MoDasby/futeboxd)
+### [Futeboxd](https://www.futeboxd.com)
 A **social platform for football fans**, allowing users to review and discuss football matches.  
 
 ### [Cache Proxy](https://github.com/MoDasby/cache-proxy)
